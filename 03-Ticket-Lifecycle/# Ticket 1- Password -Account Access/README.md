@@ -83,7 +83,7 @@ After the agent has been assigned to this particular ticket, the admin sets the 
 
 
 
-4. Once the Agent (Finn John) has reviewed all of the ticket details and identified a solution to the problem, the Agent can then use the **Post Reply** section to write a note to the user (Jane Doe) explaining everything, including the solution, in a professional manner.
+4. Once the Agent (Finn John) has reviewed all of the ticket details and identified a solution to the problem, the Agent can then use the **Post Reply** section to write a note to the user (Ken) explaining everything, including the solution, in a professional manner.
 
 <img src="1/Screenshot 2026-09-19 010649.png" alt="Agent Works the Issue">
 
